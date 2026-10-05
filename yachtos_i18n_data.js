@@ -1,3 +1,4 @@
+javascript
 // yachtos_i18n_data.js
 // YachtOS internationalization file
 // Supported languages: Russian (ru), English (en), German (de), Spanish (es), French (fr)
@@ -18,6 +19,7 @@ window.i18n = {
     "hero-sub": "Превращаем хаос связей в измеримый социальный капитал.",
     "hero-para": "YachtOS — результат работы команды Startinyachting. За 10 лет внутри индустрии мы увидели, как она ломает людей и теряет деньги. Мы создали систему, которая связывает всех участников одной прозрачной сетью доверия.",
     "hero-cta": "ВОЙТИ В ЭКОСИСТЕМУ",
+    "hero-cta-hint": "Зарегистрируйся и получи доступ к дополнительному материалу проекта",
     "hero-scroll": "Scroll",
 
     // Screen 2: Four Worlds
@@ -25,17 +27,17 @@ window.i18n = {
     "worlds-h2": "Индустрия",
     "worlds-h2-accent": "глазами участников",
     "worlds-card-1-num": "01 / Новичок",
-    "worlds-card-1-title": "Тот, кто ищет путь",
+    "worlds-card-1-title": "Тот, кто ищт путь",
     "worlds-card-1-desc": "Хаос чатов, страх скама, резюме-PDF, которое никто не открывает. 4–12 месяцев до контракта, €2,000–€5,000 без гарантий.",
     "worlds-card-2-num": "02 / Профи",
     "worlds-card-2-title": "Опытный профессионал",
     "worlds-card-2-desc": "Контракт закончен. Впечатления сгорели, связи потеряны, выгорание накрыло. Стандарт — «just deal with it».",
-    "worlds-card-3-num": "03 / Владелец",
+    "worlds-card-3-num": "03 / ладелец",
     "worlds-card-3-title": "Гость / Владелец яхты",
-    "worlds-card-3-desc": "Плачу агентству €15,000 за подбор и не знаю, кто придёт. Резюме — красивые. Люди — разные.",
+    "worlds-card-3-desc": "Плачу агентству €15,000 за подбор и не знаю, кто придёт. Резюме — красивые. Люди — раные.",
     "worlds-card-4-num": "04 / Бизнес",
     "worlds-card-4-title": "Бизнес в порту",
-    "worlds-card-4-desc": "Экипаж проходит каждый день и не знает, что я существую. Нет доступа к тем, кто тратит тысячи евро в неделю.",
+    "worlds-card-4-desc": "Экипаж проходит каждый день и не знает, что я существую. Нет доступа к тем, кто тратит тысячи евр в неделю.",
     "worlds-footer": "Резюме можно подделать. Отзыв — купить. Но когда Анна помогает Максиму найти марину, её совет становится точкой на карте, которая спасает время ещё десяти людям. Так рождается доверие.",
 
     // Screen 3: Nodes
@@ -73,7 +75,7 @@ window.i18n = {
     "maxim-pain-4-problem": "«Синдром самозванца. Я ничего не умею.»",
     "maxim-pain-4-solve": "<strong>Academic Gig:</strong> <span class=\"yos-tooltip-trigger\" data-service=\"gig-marketplace\">\"Сделайте фотоотчёт\". Выполняет, получает первые токены и отзыв.</span>",
     "maxim-pain-5-problem": "«Нет наставника. Вопросы тонут в чатах.»",
-    "maxim-pain-5-solve": "<strong>Алгоритм</strong> видит Анну с высоким <span class=\"yos-tooltip-trigger\" data-service=\"wellbeing\">Recovery Score</span> рядом. Создаёт пару. Анна помогает.",
+    "maxim-pain-5-solve": "<strong>Алгоритм</strong> видит Анну с высоким <span class=\"yos-tooltip-trigger\" data-service=\"wellbeing\">Recovery Score</span> рядом. Создаёт пар. Анна помогает.",
     "maxim-impulse-label": "Импульс сети",
     "maxim-impulse-text": "Максим выходит на контракт — Trust Score <strong>78</strong>, 7 навыков, 5 гигов, 11 контактов. За 4 дня.",
 
@@ -98,7 +100,7 @@ window.i18n = {
     "mark-pain-1-solve": "<strong>QR-сканирование:</strong> <span class=\"yos-tooltip-trigger\" data-service=\"partners\">Стюард сканирует QR. Вы добавляетесь в личную сеть с меткой \"Свой\".</span>",
     "mark-pain-2-problem": "«Агрегаторы: плати 30%, чтобы тебя увидели.»",
     "mark-pain-2-solve": "<strong>Партнёрская модель:</strong> <span class=\"yos-tooltip-trigger\" data-service=\"partners\">Фиксированная подписка + 5% комиссия. Экономия 25%.</span>",
-    "mark-pain-3-problem": "«Клиенты уходят туда, где дешевле на 1 евро.»",
+    "mark-pain-3-problem": "«Клиенты уходят туда, где дшевле на 1 евро.»",
     "mark-pain-3-solve": "<strong>Кэшбэк:</strong> Стюарду — кэшбэк в токенах. Копит на покупки. Лояльность валютой платформы.",
     "mark-pain-4-problem": "«Четыре месяца сезон — потом пустота.»",
     "mark-pain-4-solve": "<strong>Аналитика:</strong> \"340 членов экипажа в Антибе, 60% интерьер, пик — среда\". Не догадки.",
@@ -141,9 +143,9 @@ window.i18n = {
     "pillar-4-title": "Мои документы",
     "pillar-4-text": "Цифровой кошелёк сертификатов. STCW, ENG1, паспорта — всегда актуальны и видны капитану.",
     "pillar-5-title": "Мои достижения",
-    "pillar-5-text": "Карта навыков с бейджами. Чем больше верифицированных навыков — тем выше в поиске экипажа.",
+    "pillar-5-text": "Ката навыков с бейджами. Чем больше верифицированных навыков — тем выше в поиске экипажа.",
     "pillar-6-title": "Чаты и новости",
-    "pillar-6-text": "AI-шаблоны откликов и Scam Alerts. Лента предупреждает об изменениях визового режима.",
+    "pillar-6-text": "AI-шаблоны откликов и Scam Alerts. Лента предупреждает о изменениях визового режима.",
     "nervous-h3": "Нервная система океана",
     "nervous-lead": "Когда старпом подтверждает выполнение задачи, система передаёт импульс по шести направлениям одновременно. За 0.4 секунды один клик зажигает всю сеть.",
     "chain-step-1": "Биржа гигов",
@@ -152,9 +154,9 @@ window.i18n = {
     "chain-step-4": "Mentee Module",
     "chain-step-5": "Ship's Log",
     "chain-step-6": "Data Lake",
-    "nervous-close": "Один клик — и шестерёнки машины приходят в движение. Каждое действие узла мгновенно меняет все остальные.",
+    "nervous-close": "Один кик — и шестерёнки машины приходят в движение. Каждое действие узла мгновенно меняет все остальные.",
     "alchemy-h3": "Алхимия данных",
-    "alchemy-p1": "Мы продаём <strong>предиктивную аналитику рисков</strong>, не данные о людях.",
+    "alchemy-p1": "Мы продаём <strong>предиктивную аналитику рисков</strong>, е данные о людях.",
     "alchemy-p2": "Флоты с активным Well-being Pulse экономят до <strong>40%</strong> на страховках за счёт снижения инцидентов.",
 
     // Screen 6: Entry Point
@@ -196,6 +198,7 @@ window.i18n = {
     "hero-sub": "Turning network chaos into measurable social capital.",
     "hero-para": "YachtOS is the result of Startinyachting's decade-long work inside the industry. We've seen how it breaks people and loses money. We built a system that connects all participants through one transparent network of trust.",
     "hero-cta": "ENTER THE ECOSYSTEM",
+    "hero-cta-hint": "Sign up and get access to additional project materials",
     "hero-scroll": "Scroll",
 
     // Screen 2: Four Worlds
@@ -374,6 +377,7 @@ window.i18n = {
     "hero-sub": "Transformer le chaos des connexions en capital social mesurable.",
     "hero-para": "YachtOS est le résultat de dix ans de travail au cœur de l'industrie par Startinyachting. Nous avons vu comment elle casse les gens et perd de l'argent. Nous avons créé un système qui relie tous les participants à travers un seul réseau transparent de confiance.",
     "hero-cta": "ENTRER DANS L'ÉCOSYSTÈME",
+    "hero-cta-hint": "Inscrivez-vous et accédez à du matériel supplémentaire sur le projet",
     "hero-scroll": "Scroll",
 
     // Screen 2: Four Worlds
@@ -499,7 +503,7 @@ window.i18n = {
     "pillar-5-title": "Mes réalisations",
     "pillar-5-text": "Carte compétences avec badges. Plus compétences vérifiées = plus haut résultats recherche équipage.",
     "pillar-6-title": "Chats et actualités",
-    "pillar-6-text": "Modèles réponses IA et Alertes escroquerie. Le fil avertit changements régime visa.",
+    "pillar-6-text": "Modèles réponses IA et Alertes escroquerie. Le fil avertit changements rgime visa.",
     "nervous-h3": "Système nerveux de l'océan",
     "nervous-lead": "Quand l'officier en second confirme exécution tâche, le système envoie impulsions six directions simultanément. En 0,4 secondes, un clic enflamme le réseau entier.",
     "chain-step-1": "Bourse des gigs",
@@ -550,6 +554,7 @@ window.i18n = {
     "hero-sub": "Verwandeln Sie Netzwerk-Chaos in messbares Sozialkapital.",
     "hero-para": "YachtOS ist das Ergebnis von zehn Jahren Arbeit in der Industrie durch Startinyachting. Wir haben gesehen, wie sie Menschen zerbricht und Geld verliert. Wir haben ein System geschaffen, das alle Teilnehmer durch ein transparentes Vertrauensnetzwerk verbindet.",
     "hero-cta": "ÖKOSYSTEM BETRETEN",
+    "hero-cta-hint": "Registriere dich und erhalte Zugang zu zusätzlichen Projektmaterialien",
     "hero-scroll": "Scroll",
     // (Further DE translations would follow the same pattern as EN and FR)
   },
@@ -567,6 +572,7 @@ window.i18n = {
     "hero-sub": "Convirtiendo caos de conexiones en capital social medible.",
     "hero-para": "YachtOS es el resultado de diez años de trabajo dentro de la industria por Startinyachting. Hemos visto cómo la quiebra y pierda dinero. Creamos un sistema que conecta todos los participantes a través de una red transparente de confianza.",
     "hero-cta": "ENTRAR EN EL ECOSISTEMA",
+    "hero-cta-hint": "Regístrate y obtén acceso a material adicional del proyecto",
     "hero-scroll": "Scroll",
     // (Further ES translations would follow the same pattern as EN and FR)
   }
